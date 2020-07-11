@@ -1,0 +1,1 @@
+Koniu tu cos kombinowal

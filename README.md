@@ -1,6 +1,6 @@
 # Kali Linux Tutorial For Beginners [Video]
 This is the code repository for [Kali Linux Tutorial For Beginners [Video]](https://www.packtpub.com/networking-and-servers/learning-linux-5-system-administration-video?utm_source=github&utm_medium=repository&utm_campaign=9781838641634), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
-## About the Video Course
+## About the Video Course - Koniu tu by
 You want to learn hacking with Kali Linux but you do not know where to start? Do you find the command line confusing and intimidating? If yes, this is the perfect course for you. In this Kali Linux tutorial, we start you off with the assumption that you know absolutely nothing about Linux! Starting from scratch you will build up your knowledge on how to use Kali Linux and before you know it you will become fluent with the basic tools and commands not just in Kali, but in most Linux systems. Please note that this course builds upon some ethical hacking concepts taught in the Hacking For Beginners ethical hacking course. This is another free course provided by Hackers Academy
 
 <H2>What You Will Learn</H2>
